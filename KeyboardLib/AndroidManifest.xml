@@ -16,7 +16,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:windowSoftInputMode="adjustResize" 
-            android:name="com.gagan.keyboardlib.MainActivity"
+            android:name="com.gagan.keyboardlib.demo.ExampleActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
